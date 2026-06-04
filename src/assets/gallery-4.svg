@@ -1,0 +1,7 @@
+<svg viewBox="0 0 640 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gallery image four">
+  <rect width="640" height="520" rx="40" fill="#fff7ee" />
+  <path d="M90 370 C 170 290, 250 280, 330 340 C 410 400, 510 390, 580 310" fill="#C49A6C" opacity="0.92" />
+  <path d="M130 280 C 210 210, 300 220, 410 280" stroke="#7D1232" stroke-width="22" fill="none" />
+  <circle cx="520" cy="130" r="42" fill="#7D1232" />
+  <circle cx="160" cy="150" r="28" fill="#C49A6C" />
+</svg>

@@ -1,0 +1,7 @@
+<svg viewBox="0 0 640 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gallery image three">
+  <rect width="640" height="520" rx="40" fill="#fff7ee" />
+  <path d="M95 420 C 200 320, 280 310, 420 380 C 520 430, 620 400, 620 330" fill="#7D1232" />
+  <path d="M120 310 C 200 220, 340 220, 460 300" stroke="#C49A6C" stroke-width="22" fill="none" />
+  <circle cx="220" cy="160" r="32" fill="#C49A6C" />
+  <path d="M310 120 C 340 170, 390 170, 430 130" stroke="#fff7ee" stroke-width="16" fill="none" />
+</svg>

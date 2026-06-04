@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-white text-smoke antialiased;
+  font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  min-height: 100vh;
+  line-height: 1.6;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+::selection {
+  background: #7d1232;
+  color: white;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+.bg-hero-gradient {
+  background-image: radial-gradient(circle at top left, rgba(197, 154, 108, 0.12), transparent 36%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.95), rgba(250, 243, 232, 0.92));
+}
+
+.section-border {
+  border-top: 1px solid rgba(92, 18, 33, 0.06);
+}
+
+.modal-backdrop {
+  background: rgba(19, 18, 25, 0.72);
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.78);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+}
+
+.hero-decor {
+  background: radial-gradient(circle at 20% 20%, rgba(197, 154, 108, 0.16), transparent 25%);
+}
+
+.gallery-loading {
+  background: linear-gradient(90deg, #f8f2e9 0%, #fbf7f1 50%, #f8f2e9 100%);
+  background-size: 200% 100%;
+  animation: shimmer 1.8s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+@media (max-width: 640px) {
+  .columns-1 {
+    column-count: 1;
+  }
+}
+
+@media (min-width: 641px) and (max-width: 1023px) {
+  .columns-1 {
+    column-count: 2;
+  }
+}
+
+@media (min-width: 1024px) {
+  .columns-1 {
+    column-count: 3;
+  }
+}

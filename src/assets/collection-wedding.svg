@@ -1,0 +1,8 @@
+<svg viewBox="0 0 640 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Wedding collection illustration">
+  <rect width="640" height="520" rx="40" fill="#fff7ee" />
+  <path d="M80 420 C 220 340, 260 220, 420 300 C 520 350, 590 300, 560 230" fill="#7D1232" opacity="0.85" />
+  <path d="M120 360 C 220 290, 280 230, 440 310 C 500 360, 560 310, 540 250" stroke="#C49A6C" stroke-width="18" fill="none" />
+  <circle cx="180" cy="160" r="46" fill="#7D1232" />
+  <circle cx="480" cy="170" r="44" fill="#C49A6C" />
+  <path d="M220 120 L260 220 L320 180 L360 260" stroke="#5C1221" stroke-width="16" fill="none" stroke-linecap="round" />
+</svg>

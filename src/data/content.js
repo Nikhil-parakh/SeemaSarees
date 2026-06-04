@@ -16,11 +16,11 @@ const content = {
     tagline: "Crafting premium saree collections for retailers and wholesalers",
     description:
       "Seema Sarees is a trusted saree manufacturer delivering high-quality sarees with a focus on reliability, craftsmanship, and long-term business partnerships.",
-    address: "Plot 24A, Textile Park, Kanpur, Uttar Pradesh, India",
-    phone: "+91 98765 43210",
-    email: "contact@seemasarees.com",
-    hours: "Mon - Sat: 9:30 AM - 7:00 PM",
-    whatsapp: "https://wa.me/919876543210",
+    address: "D-1186 Ground floor Mellennium Market - 1 Ring Road Surat, Gujarat",
+    phone: "+91 90169 15322",
+    email: "seemasarees2610@gmail.com",
+    hours: "Mon - Sat: 9:30 AM - 8:00 PM",
+    whatsapp: "https://wa.me/919016915322",
   },
   navLinks: [
     { label: "Home", href: "#home" },

@@ -1,14 +1,14 @@
-import heroImage from "../assets/hero-saree.svg";
-import weddingImage from "../assets/collection-wedding.svg";
-import designerImage from "../assets/collection-designer.svg";
-import festivalImage from "../assets/collection-festival.svg";
-import dailyWearImage from "../assets/collection-dailywear.svg";
-import gallery1 from "../assets/gallery-1.svg";
-import gallery2 from "../assets/gallery-2.svg";
-import gallery3 from "../assets/gallery-3.svg";
-import gallery4 from "../assets/gallery-4.svg";
-import gallery5 from "../assets/gallery-5.svg";
-import gallery6 from "../assets/gallery-6.svg";
+import heroImage from "../assets/hero_saree.png";
+import weddingImage from "../assets/collection-wedding.png";
+import designerImage from "../assets/collection-designer.png";
+import festivalImage from "../assets/collection-festival.png";
+import dailyWearImage from "../assets/collection-dailywear.png";
+import gallery1 from "../assets/gallery-1.png";
+import gallery2 from "../assets/gallery-2.png";
+import gallery3 from "../assets/gallery-3.png";
+import gallery4 from "../assets/gallery-4.png";
+import gallery5 from "../assets/gallery-5.png";
+import gallery6 from "../assets/gallery-6.png";
 
 const content = {
   company: {
@@ -41,12 +41,12 @@ const content = {
   },
   stats: [
     { label: "Years Experience", value: "16+" },
-    { label: "Retail Partners", value: "500+" },
+    { label: "client Served", value: "500+" },
     { label: "Cities Served", value: "20+" },
     { label: "Designs Created", value: "1000+" },
   ],
   about: {
-    title: "About Seema Sarees",
+    title: "Seema Sarees",
     paragraphs: [
       "With over 16 years of expertise, Seema Sarees partners with retailers, semi-wholesalers, and distributors to deliver curated saree collections that reflect trust and premium fabric quality.",
       "Our commitment is to provide consistent delivery, thoughtful design, and a streamlined procurement experience for business buyers.",

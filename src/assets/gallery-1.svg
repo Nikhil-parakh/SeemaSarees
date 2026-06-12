@@ -1,6 +1,0 @@
-<svg viewBox="0 0 640 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gallery image one">
-  <rect width="640" height="520" rx="40" fill="#fff7ee" />
-  <path d="M80 380 C 200 280, 320 260, 440 340 C 520 400, 620 360, 620 280" fill="#C49A6C" opacity="0.95" />
-  <path d="M130 320 L220 220 L310 300 L410 210 L530 310" stroke="#7D1232" stroke-width="18" fill="none" stroke-linecap="round" />
-  <circle cx="180" cy="120" r="34" fill="#7D1232" opacity="0.9" />
-</svg>

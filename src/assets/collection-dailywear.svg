@@ -1,8 +1,0 @@
-<svg viewBox="0 0 640 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Daily wear collection illustration">
-  <rect width="640" height="520" rx="40" fill="#fff7ee" />
-  <path d="M110 380 C 170 300, 250 280, 320 340 C 390 400, 470 380, 540 320 L 540 420 L 110 420 Z" fill="#7D1232" opacity="0.85" />
-  <path d="M120 310 C 180 240, 240 220, 320 280 C 400 340, 480 320, 530 270" stroke="#C49A6C" stroke-width="16" fill="none" />
-  <rect x="180" y="140" width="140" height="220" rx="34" fill="#fff7ee" stroke="#5C1221" stroke-width="14" />
-  <circle cx="465" cy="170" r="34" fill="#5C1221" />
-  <path d="M230 175 C 260 140, 310 120, 360 165" stroke="#7D1232" stroke-width="16" fill="none" />
-</svg>
